@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b1a79f7-4931-424b-b74d-20ecf86c9f4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/CommandList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/CommandProcessing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/LoginFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/UserList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandAddUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandDeleteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandExit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandLogout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/PermsVerify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/logrecord/LogFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/logrecord/LogRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Advanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/CreatePermsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/SetUserPerms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/UserPerms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/terminal/Terminal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/NameList.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/permsADMIN.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/permsADVANCED.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/permsBASIC.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,12 +50,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/GitHUB/Java_Example/SwingLookAndFeel",
+    "last_opened_file_path": "D:/Project/permission-terminal",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chenyo.permission.Main" />
+      <module name="permission-terminal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chenyo.permission.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
