@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b1a79f7-4931-424b-b74d-20ecf86c9f4c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/CommandList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/CommandProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/LoginFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/UserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandAddUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandDeleteUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandExit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/CommandLogout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/command/PermsVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/logrecord/LogFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/logrecord/LogRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Advanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/CreatePermsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/SetUserPerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/UserPerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/chenyo/permission/terminal/Terminal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/NameList.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/permsADMIN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/permsADVANCED.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/permsBASIC.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/chenyo/permission/perms/Basic.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IbwusCisX4wOYMsOTYbAgM9t9Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/GitHUB/Java_Example/SwingLookAndFeel",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b1a79f7-4931-424b-b74d-20ecf86c9f4c" name="Changes" comment="" />
+      <created>1670463819147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670463819147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.chenyo.permission.perms.Basic" memberName="permsBasic" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
